@@ -96,6 +96,7 @@ function filtro() {
   section.innerHTML = mansionesHtml ;
   const propiedadesDiv = document.getElementById("propiedadesDiv") ;
   propiedadesDiv.innerHTML = propiedadesHtml ;
+  
 } 
 
 
